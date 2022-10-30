@@ -65,10 +65,10 @@ Heroku Streak
 
 ## Ways to Reach Me
 
-- [Facebook](www.facebook.com/mahadikrahul7294)
-- [Twitter](https://twitter.com/mahadikrahul72)
-- [LinkedIn](www.facebook.com/mahadikrahul7294)
-- [Instagram](https://www.linkedin.com/in/mahadikrahul/)
+- [Facebook](https://www.facebook.com/mahadikrahul7294)
+- [Twitter](https://www.twitter.com/mahadikrahul72)
+- [LinkedIn](https://www.linkedin.com/in/mahadikrahul/)
+- [Instagram](https://www.instagram.com/mahadikrahul7294/)
 - [StackOverflow](https://stackoverflow.com/users/8847277/rahul-mahadik)
 - [Mail](mailto:mahadikrahul7294@gmail.com)
 
